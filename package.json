@@ -1,0 +1,17 @@
+{
+  "name": "JSON_Server",
+  "version": "1.0.0",
+  "description": "Simple json database to deploy to the host of your choice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ninjakodtv, json-server,heroku, node, REST API"
+  ],
+  "author": "Ayush kumar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
