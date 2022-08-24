@@ -3,6 +3,7 @@ const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 const jiomarthomedata = require("./data/jiomarthomedata.json");
+const react = require("./React/react.json");
 
 module.exports = {
   items,
@@ -10,4 +11,5 @@ module.exports = {
   brands,
   itemTypes,
   jiomarthomedata,
+  react,
 };
