@@ -4,6 +4,9 @@ const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 const jiomarthomedata = require("./data/jiomarthomedata.json");
 const react = require("./React/react.json");
+const dermcart = require("./dermcart.json");
+const dermproducts = require("./dermproducts.json");
+const dermuserinfo = require("./dermuserinfo.json");
 
 module.exports = {
   items,
@@ -12,4 +15,7 @@ module.exports = {
   itemTypes,
   jiomarthomedata,
   react,
+  dermcart,
+  dermproducts,
+  dermuserinfo,
 };
