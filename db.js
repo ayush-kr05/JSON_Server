@@ -7,6 +7,8 @@ const react = require("./React/react.json");
 const dermcart = require("./DermStore/dermcart.json");
 const dermproducts = require("./DermStore/dermproducts.json");
 const dermuserinfo = require("./DermStore/dermuserinfo.json");
+const bookdetails = require("./React/abhishek_bookdetails.json");
+const signupab = require("./React/abhishek_signup.json");
 
 module.exports = {
   items,
@@ -18,4 +20,6 @@ module.exports = {
   dermcart,
   dermproducts,
   dermuserinfo,
+  bookdetails,
+  signupab,
 };
